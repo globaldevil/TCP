@@ -1,0 +1,6 @@
+D:\Lap_Trinh\TCP\TCP\bin\Debug\TCP.exe.config
+D:\Lap_Trinh\TCP\TCP\bin\Debug\TCP.exe
+D:\Lap_Trinh\TCP\TCP\bin\Debug\TCP.pdb
+D:\Lap_Trinh\TCP\TCP\obj\Debug\TCP.csprojResolveAssemblyReference.cache
+D:\Lap_Trinh\TCP\TCP\obj\Debug\TCP.exe
+D:\Lap_Trinh\TCP\TCP\obj\Debug\TCP.pdb
